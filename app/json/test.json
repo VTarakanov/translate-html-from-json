@@ -1,0 +1,21 @@
+[{
+    "ru": {
+        "lang": "ru lang",
+        "pretitle": "ru title"
+    },
+
+    "en": {
+        "lang": "en lang",
+        "pretitle": "en title"
+    },
+
+    "es": {
+        "lang": "es lang",
+        "pretitle": "es title"
+    },
+
+    "hi": {
+        "lang": "hi lang",
+        "pretitle": "hi title"
+    }
+}]

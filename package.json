@@ -1,0 +1,21 @@
+{
+	"name": "translatehtml",
+	"version": "1.0.0",
+	"description": "translatehtml - Generating html with translations from json",
+	"main": "index.js",
+	"author": "Vitaliy Tarakanov",
+	"type": "module",
+	"license": "ISC",
+	"scripts": {
+		"start": "gulp",
+		"build": "gulp build"
+	},
+	"devDependencies": {
+		"del": "^6.0.0",
+		"gulp": "^4.0.2"
+	},
+	"dependencies": {
+		"fancy-log": "^2.0.0",
+		"gulp-pug": "^5.0.0"
+	}
+}
